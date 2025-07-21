@@ -1,0 +1,6 @@
+{
+    "files.readonlyInclude": {
+        "{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
+    },
+    "cmake.sourceDirectory": "D:/work_test/Grad_Project/Mobile/windows/flutter"
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "638722588860",
+    "firebase_url": "https://car-care-97882-default-rtdb.firebaseio.com",
+    "project_id": "car-care-97882",
+    "storage_bucket": "car-care-97882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638722588860:android:38ea870b5ec415a26bd0b9",
+        "android_client_info": {
+          "package_name": "com.carcare.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYIuQUSjdQ8cjgYPJ5KWKvPllBBwsy3iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
